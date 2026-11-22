@@ -23,5 +23,3 @@ Currently building **[Saturn Launcher](https://github.com/swarties/SaturnLaunche
 ### Completed Projects
 
 - **[Saturn Launcher](https://github.com/swarties/SaturnLauncher)**  Made the backend for a native Minecraft launcher built with Go + Wails!
-
----
